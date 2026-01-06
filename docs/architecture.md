@@ -11,7 +11,7 @@ Sending Email using SMPT Library
 
 Notes:
     - USERNAME: my_email_address@gmail.com
-    - ASSWORD: my_password
+    - PASSWORD: my_password
     - Sending the email, it starts with a Subject which is then separated by a '\n' new line character. From there write the body of the email.
     - TLS stands for Transport Layer Security: Meaning it secures communication on the internet by encrypting data between sender and receiver.
     -f-strings: Formatted String Literals to help incorate formatting and interpolation.
