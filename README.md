@@ -5,7 +5,6 @@ Automating sending emails with Python
 -Python 3.12
 -Gmail App Password Required(Go to docs/architecture.md for help)
 
-
 # Introduction
 Hello, my name is Mauricio. A lot of people call me 'Mau' for short. Hence my developer name Bluemau.dev
 
