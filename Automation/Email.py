@@ -1,4 +1,4 @@
-import smtplib #:)
+import smtplib #
 
 # SMTP Server | Domain Name, Port Number
 smtpObj = smtplib.SMTP("smtp.gmail.com", 587)
