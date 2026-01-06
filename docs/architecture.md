@@ -1,3 +1,5 @@
+# Documentation of Project Files
+
 # Automation / Email.py
 
 Sending Email using SMPT Library
@@ -14,3 +16,6 @@ Notes:
     TLS stands for Transport Layer Security: Meaning it secures communication on the internet by encrypting data between sender and receiver.
     f-strings: Formatted String Literals to help incorate formatting and interpolation.
     Interpolation: Meaning subsituting placeholders in a string with values like (Primitive or Non-Primitive Data Types)
+
+Connecting to Domain Name: 
+Depending on what you use, 
